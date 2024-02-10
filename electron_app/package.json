@@ -34,7 +34,7 @@
     "fuse.js": "^6.6.2",
     "javascript-time-ago": "^2.3.13",
     "konva": "^8.3.13",
-    "nsfwjs": "^2.4.2",
+    "nsfwjs": "^3.0.0",
     "v-click-outside": "^3.1.2",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.6.2",
