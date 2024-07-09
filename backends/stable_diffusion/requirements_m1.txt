@@ -7,3 +7,4 @@ tqdm==4.64.1
 protobuf==3.19
 ftfy==6.1.1
 regex==2022.9.13
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
